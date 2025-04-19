@@ -61,7 +61,7 @@ A powerful Speed Limit Violation Detection Streamlit-based computer vision app t
 
 3. Install dependencies:
 
-- pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118 && \
+- pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 - pip install ultralytics easyocr opencv-python-headless numpy pandas streamlit Pillow 
 - pip install secure-smtplib
 
