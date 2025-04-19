@@ -8,6 +8,7 @@ A powerful Speed Limit Violation Detection Streamlit-based computer vision app t
 ## Features
 
 ✅ Live webcam feed or use Upload video
+
 ✅ Detects and tracks vehicles using YOLOv8  
 ✅ Estimates vehicle speed using position and time data  
 ✅ OCR-based license plate recognition with EasyOCR  
