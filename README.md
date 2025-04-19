@@ -42,7 +42,7 @@ A powerful Speed Limit Violation Detection Streamlit-based computer vision app t
 
 1. Clone the repository:
 
-- git clone https://github.com/yourusername/speed-violation-detector.git
+- git clone https://github.com/ErikElcsics/Speed-Limit-Violation-Detection-System.git
 
 - cd speed-violation-detector
 
@@ -107,6 +107,22 @@ To use the email feature:
 ## License
 
 This project is licensed under the MIT License. Feel free to use and modify it.
+
+![image](https://github.com/user-attachments/assets/88515ccb-3d52-462a-a424-0b482c534635)
+
+![image](https://github.com/user-attachments/assets/843ace0a-ebf8-4ffe-a478-ff5b41272afc)
+
+![image](https://github.com/user-attachments/assets/6f92a4be-8227-4d49-94ab-5600de76730c)
+
+![image](https://github.com/user-attachments/assets/ba16c20b-2046-4e90-93e8-0cc223876b1d)
+
+![image](https://github.com/user-attachments/assets/40ab0a9a-d6cb-47c1-8c3e-86d7a46cec0a)
+
+![image](https://github.com/user-attachments/assets/f8eac711-1a2e-429a-8a0e-92ff2fab2243)
+
+
+
+
 
 
 
