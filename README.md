@@ -20,7 +20,12 @@ A powerful Speed Limit Violation Detection Streamlit-based computer vision app t
 ✅ Gallery view for each speeding vehicle (1 image per car)  
 ✅ Fully interactive Streamlit UI with side panel configuration  
 
+## Example Use Cases
 
+- School zones & urban speed monitoring  
+- Parking lot enforcement  
+- Residential speed zone analysis  
+- Surveillance analytics in private/public roads  
 
 ## Technologies & Libraries Used
 
@@ -85,15 +90,6 @@ To use the email feature:
 1. Update the `sender_email` and `sender_password` in the code.
 2. Ensure less secure apps are enabled in your email settings (Gmail may require an app password if 2FA is on).
 3. Enter the recipient's email in the sidebar and click Send.
-
-
-
-## Example Use Cases
-
-- School zones & urban speed monitoring  
-- Parking lot enforcement  
-- Residential speed zone analysis  
-- Surveillance analytics in private/public roads  
 
 
 
